@@ -35,7 +35,7 @@ The question that we want to address is:
 1. NYC TLC Trip Record (Raw main dataset)
 2. taxi_zone_lookup (Complementary dataset)
 3. taxi_zones (Complementary dataset)
-4. TLC NYC Taxi Cleaned (Clean Dataset)
+4. TLC NYC Taxi Cleaned (Clean dataset)
 
 ## Key Features
 | Feature | Description | dtype |
